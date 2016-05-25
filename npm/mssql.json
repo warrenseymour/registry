@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "3.3.0": "github:typed-contrib/node-mssql#3c5f1116fcc462917303aed135a7930f670fa344"
+  }
+}
